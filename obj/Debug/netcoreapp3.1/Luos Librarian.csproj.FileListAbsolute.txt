@@ -1,0 +1,24 @@
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.exe
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.deps.json
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.runtimeconfig.json
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.runtimeconfig.dev.json
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Luos Librarian.pdb
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\ConcurrentCollections.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Emzi0767.Common.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.csprojAssemblyReference.cache
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.AssemblyInfoInputs.cache
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.AssemblyInfo.cs
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.csproj.CoreCompileInputs.cache
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.csproj.CopyComplete
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.dll
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.pdb
+C:\Users\shade\Documents\Luo's Librarian\Luos Librarian\obj\Debug\netcoreapp3.1\Luos Librarian.genruntimeconfig.cache
